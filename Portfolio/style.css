@@ -31,7 +31,7 @@ a{
     margin: 0;
     padding: 0;
 }
-img{
+.profile{
     margin: 20px;
     transform: translate(42px, 18px);
     border: #FFB200 10px dashed;
